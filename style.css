@@ -1,0 +1,42 @@
+#Sound_control{
+   background-color: white;
+   height:100px;
+   width:90%;
+   
+}
+
+#START{
+    background-color: lightgreen;
+    font-size: 20px;
+}
+
+body{
+    background-color: skyblue;
+}
+
+h4{
+    color:gray;
+    font-weight: bold;
+
+}
+
+h1{
+    color:lightgreen;
+    text-shadow: 2px 2px steelblue;
+}
+
+img{
+    height:300px
+}
+
+#footer{
+    position: fixed;
+    bottom:0;
+    background-color:lightgray;
+    width:100%;
+    font-size:22px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 2;
+    text-shadow:  2px 2px gray;
+}
